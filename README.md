@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0088-merge-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0283-move-zeroes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1762-furthest-building-you-can-reach](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1762-furthest-building-you-can-reach) |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0209-minimum-size-subarray-sum](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -100,4 +102,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
