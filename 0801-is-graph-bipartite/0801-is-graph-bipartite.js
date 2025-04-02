@@ -7,15 +7,15 @@ var isBipartite = function(graph) {
 
    for(let i = 0 ; i < graph.length; i++) {
         if(colors[i] === -1) {
-            let stack = [i]
+            let queue = [i]
             colors[i] = 0
 
-            while(stack.length > 0) {
-                let node = stack.pop()
+            while(queue.length > 0) {
+                let node = queue.shift()
                for(let el of graph[node]){
                     if(colors[el] === -1) {
                         colors[el] = 1 - colors[node]
-                        stack.push(el)
+                        queue.push(el)
                     }else if(colors[el] === colors[node]){
                         return false
                     }
