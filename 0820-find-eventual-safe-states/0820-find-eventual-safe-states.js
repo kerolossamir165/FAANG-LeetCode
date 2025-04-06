@@ -4,7 +4,6 @@
  */
 var eventualSafeNodes = function(graph) {
     const visited = {}; 
-    const stack = [];
     let result = []
 
     function dfs(vertex) {
@@ -24,7 +23,6 @@ var eventualSafeNodes = function(graph) {
             }
         }
         visited[vertex] = 2;
-        stack.push(vertex);
         return true 
     }
 
