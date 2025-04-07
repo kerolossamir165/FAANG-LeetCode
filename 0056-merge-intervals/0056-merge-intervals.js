@@ -17,9 +17,15 @@ var merge = function(intervals) {
     let result = []
 
     for(let interval of intervals) {
+        // result[result.length - 1][1] :This retrieves the end time of the last interval in the merged list 
+
         if(result.length === 0 || result[result.length -1][1] < interval[0]) {
+            //If the end time of the last merged interval (result[result.length - 1][1]) is less
+            // than the start time of the current interval (interval[0]), 
+            //it means there’s no overlap between the two intervals.
             result.push(interval)
         } else {
+            //Updates the merged interval’s end time to encompass overlapping intervals
             result[result.length -1][1] = Math.max(interval[1] , result[result.length -1][1])
         }
 
@@ -60,7 +66,7 @@ var merge = function(intervals) {
 //         return node
 //     }
 //     traverse() {
-//         let merged = []
+//         let result = []
 //         this._traverse(this.root , merged)
 //         return merged
 //     }
