@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0283-move-zeroes) |
+| [0881-loud-and-rich](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0881-loud-and-rich) |
 | [1039-find-the-town-judge](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1039-find-the-town-judge) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1762-furthest-building-you-can-reach](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1762-furthest-building-you-can-reach) |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0801-is-graph-bipartite](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [0881-loud-and-rich](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0881-loud-and-rich) |
 | [2121-find-if-path-exists-in-graph](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Greedy
 |  |
@@ -95,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [0881-loud-and-rich](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0881-loud-and-rich) |
 | [1039-find-the-town-judge](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1039-find-the-town-judge) |
 | [2121-find-if-path-exists-in-graph](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Sorting
@@ -150,4 +153,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [0881-loud-and-rich](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0881-loud-and-rich) |
 <!---LeetCode Topics End-->
