@@ -5,6 +5,7 @@
  * @return {number}
  */
 var networkDelayTime = function(times, n, k) {
+    // it asks for the minimum time it takes for all n nodes to receive a signal, we are essentially calculating the maximum time it takes for any single node to receive the signal starting from the source node k.
  const graph = Array.from({ length: n + 1 }, () => []);
     for (let [from, to, time] of times) {
         graph[from].push([to, time]);
@@ -31,6 +32,7 @@ var networkDelayTime = function(times, n, k) {
         }
         
     }
+    //we calculate the shortest time for each node to receive the signal and    then check the maximum of those times. This maximum time represents the time it takes for all nodes to receive the signal.
     let max = Math.max(...distTo.slice(1))  
     return  max === Infinity  ? -1 : max
 };
