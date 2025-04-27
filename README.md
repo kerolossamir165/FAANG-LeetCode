@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0206-reverse-linked-list) |
 ## Backtracking
 |  |
 | ------- |
@@ -192,4 +193,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0036-valid-sudoku) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
