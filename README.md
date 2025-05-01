@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0283-move-zeroes) |
 ## Tree
 |  |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0202-happy-number) |
 | [1039-find-the-town-judge](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1039-find-the-town-judge) |
 ## String
 |  |
@@ -202,4 +204,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0206-reverse-linked-list) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
