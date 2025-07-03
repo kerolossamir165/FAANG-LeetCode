@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1028-interval-list-intersections](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1028-interval-list-intersections) |
 | [1039-find-the-town-judge](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1039-find-the-town-judge) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1168-duplicate-zeros](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1168-duplicate-zeros) |
 | [1185-find-in-mountain-array](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1185-find-in-mountain-array) |
 | [1762-furthest-building-you-can-reach](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 ## Two Pointers
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0283-move-zeroes) |
 | [1028-interval-list-intersections](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1028-interval-list-intersections) |
+| [1168-duplicate-zeros](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1168-duplicate-zeros) |
 ## Tree
 |  |
 | ------- |
