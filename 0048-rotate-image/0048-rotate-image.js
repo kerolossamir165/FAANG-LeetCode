@@ -34,6 +34,12 @@ var rotate = function(matrix) {
 
 //             // Top (saved) -to→ Right
 
+                // \U0001f53c Top	(0, 1)	matrix[first][first + i]
+                // ◀️ Left	(3, 0)	matrix[last - i][first]
+                // \U0001f53d Bottom	(4, 3)	matrix[last][last - i]
+                // ▶️ Right	(1, 4)	matrix[first + i][last]
+
+
 //             matrix[first][first + i] = matrix[last - i ][first]
 //             matrix[last - i ][first] = matrix[last][last - i ]
 //             matrix[last][last - i ] = matrix[first + i ][last]
