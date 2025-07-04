@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0162-find-peak-element) |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -244,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## Recursion
 |  |
 | ------- |
