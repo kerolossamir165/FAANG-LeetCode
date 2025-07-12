@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0692-top-k-frequent-words](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0881-loud-and-rich](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0881-loud-and-rich) |
