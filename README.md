@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0692-top-k-frequent-words](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0881-loud-and-rich](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0881-loud-and-rich) |
+| [0941-sort-array-by-parity](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0978-valid-mountain-array) |
 | [1028-interval-list-intersections](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1028-interval-list-intersections) |
 | [1039-find-the-town-judge](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1039-find-the-town-judge) |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0283-move-zeroes) |
+| [0941-sort-array-by-parity](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1028-interval-list-intersections](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1028-interval-list-intersections) |
 | [1168-duplicate-zeros](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1168-duplicate-zeros) |
 ## Tree
@@ -163,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0179-largest-number) |
 | [0692-top-k-frequent-words](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0941-sort-array-by-parity](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0941-sort-array-by-parity) |
 ## Stack
 |  |
 | ------- |
