@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1168-duplicate-zeros](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1168-duplicate-zeros) |
 | [1185-find-in-mountain-array](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1185-find-in-mountain-array) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1762-furthest-building-you-can-reach](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [2058-concatenation-of-array](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2058-concatenation-of-array) |
