@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0059-spiral-matrix-ii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0179-largest-number) |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -230,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0079-word-search](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -258,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0257-binary-tree-paths) |
 ## Topological Sort
 |  |
@@ -287,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0079-word-search) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Recursion
 |  |
