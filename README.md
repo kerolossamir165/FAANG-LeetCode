@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0692-top-k-frequent-words](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0787-sliding-puzzle](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0787-sliding-puzzle) |
 | [0881-loud-and-rich](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0881-loud-and-rich) |
 | [0941-sort-array-by-parity](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0978-valid-mountain-array) |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0744-network-delay-time](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0744-network-delay-time) |
+| [0787-sliding-puzzle](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0787-sliding-puzzle) |
 | [0801-is-graph-bipartite](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0820-find-eventual-safe-states) |
@@ -271,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0079-word-search](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0257-binary-tree-paths) |
+| [0787-sliding-puzzle](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0787-sliding-puzzle) |
 ## Topological Sort
 |  |
 | ------- |
@@ -281,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0787-sliding-puzzle) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Shortest Path
 |  |
@@ -300,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0059-spiral-matrix-ii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0079-word-search) |
+| [0787-sliding-puzzle](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0787-sliding-puzzle) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Recursion
 |  |
@@ -357,4 +362,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Memoization
+|  |
+| ------- |
+| [0787-sliding-puzzle](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0787-sliding-puzzle) |
 <!---LeetCode Topics End-->
