@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1762-furthest-building-you-can-reach](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [2058-concatenation-of-array](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2058-concatenation-of-array) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Two Pointers
 |  |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0803-cheapest-flights-within-k-stops](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1184-car-pooling](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1184-car-pooling) |
 | [1762-furthest-building-you-can-reach](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1762-furthest-building-you-can-reach) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -172,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0803-cheapest-flights-within-k-stops](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [2121-find-if-path-exists-in-graph](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Union Find
@@ -194,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-loud-and-rich](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0881-loud-and-rich) |
 | [1039-find-the-town-judge](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1039-find-the-town-judge) |
 | [2121-find-if-path-exists-in-graph](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2793-count-the-number-of-complete-components](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Sorting
 |  |
@@ -291,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0744-network-delay-time](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Interactive
 |  |
 | ------- |
@@ -305,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0079-word-search) |
 | [0787-sliding-puzzle](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0787-sliding-puzzle) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Recursion
 |  |
