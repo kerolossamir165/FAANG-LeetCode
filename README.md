@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1185-find-in-mountain-array](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1185-find-in-mountain-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1706-min-cost-to-connect-all-points](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1762-furthest-building-you-can-reach](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [2058-concatenation-of-array](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2058-concatenation-of-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0801-is-graph-bipartite) |
+| [1706-min-cost-to-connect-all-points](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2793-count-the-number-of-complete-components) |
@@ -196,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0820-find-eventual-safe-states](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0881-loud-and-rich](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0881-loud-and-rich) |
 | [1039-find-the-town-judge](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1039-find-the-town-judge) |
+| [1706-min-cost-to-connect-all-points](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2793-count-the-number-of-complete-components](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2793-count-the-number-of-complete-components) |
@@ -372,4 +375,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0787-sliding-puzzle) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
