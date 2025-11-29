@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0787-sliding-puzzle](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0787-sliding-puzzle) |
@@ -296,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0643-maximum-average-subarray-i](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
 | ------- |
