@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0079-word-search) |
@@ -395,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0013-roman-to-integer](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0202-happy-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
