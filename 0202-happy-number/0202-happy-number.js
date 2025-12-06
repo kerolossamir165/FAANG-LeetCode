@@ -27,10 +27,12 @@ var isHappy = function(n) {
 function getNextNum(x) {
     let next = 0 
     while(x > 0) {
+        // get the last digit 
         let digit = x % 10
         
+        // remove this digit 
         x =  Math.floor(x / 10)
-        
+        // then square it and add it 
         next += digit ** 2
     }
     return next 
