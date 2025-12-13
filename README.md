@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0287-find-the-duplicate-number](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0732-my-calendar-iii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0732-my-calendar-iii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0783-search-in-a-binary-search-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -353,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0732-my-calendar-iii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0732-my-calendar-iii) |
 | [1184-car-pooling](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1184-car-pooling) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Linked List
@@ -456,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0732-my-calendar-iii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0732-my-calendar-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Divide and Conquer
 |  |
@@ -519,4 +522,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Segment Tree
+|  |
+| ------- |
+| [0732-my-calendar-iii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0732-my-calendar-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0732-my-calendar-iii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0732-my-calendar-iii) |
 <!---LeetCode Topics End-->
