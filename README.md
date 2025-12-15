@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0066-plus-one) |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0179-largest-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1762-furthest-building-you-can-reach](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1762-furthest-building-you-can-reach) |
@@ -389,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0055-jump-game) |
 | [0787-sliding-puzzle](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0787-sliding-puzzle) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
