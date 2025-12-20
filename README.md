@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0135-candy) |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -153,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -311,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0141-linked-list-cycle) |
@@ -488,6 +492,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
