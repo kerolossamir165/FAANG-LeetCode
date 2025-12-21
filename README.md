@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0257-binary-tree-paths) |
@@ -349,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0224-basic-calculator](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -462,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0648-replace-words](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
@@ -483,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0732-my-calendar-iii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0732-my-calendar-iii) |
