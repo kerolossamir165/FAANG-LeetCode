@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0055-jump-game) |
@@ -402,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0257-binary-tree-paths) |
