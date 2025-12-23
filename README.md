@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -405,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0051-n-queens](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0787-sliding-puzzle](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0787-sliding-puzzle) |
@@ -561,6 +563,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Segment Tree
 |  |
