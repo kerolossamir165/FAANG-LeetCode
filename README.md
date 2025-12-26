@@ -375,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-backspace-string-compare](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0874-backspace-string-compare) |
 | [1508-longest-happy-prefix](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1508-longest-happy-prefix) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 ## Sliding Window
 |  |
 | ------- |
@@ -395,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0732-my-calendar-iii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0732-my-calendar-iii) |
 | [1184-car-pooling](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1184-car-pooling) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Linked List
 |  |
