@@ -23,7 +23,12 @@ var widthOfBinaryTree = function(root) {
 
         for(let i = 0 ; i < level ; i++) {
             let [node , index ] = queue.shift()
+            //index -= left; ensures indices start from 0 at each level.
+            //At the start of each level, subtract the leftmost index from all
+            // indices in that level.
+           // This keeps indices small and avoids overflow/precision issues.
             index -= left;
+
             if(node.left) {
                 queue.push([node.left , 2*index + 1] )
             }
@@ -37,6 +42,7 @@ var widthOfBinaryTree = function(root) {
         // the plus 1  to include the leftmost node itself in the count.
         // the subtraction calculate the steps 
         // but + 1 include the nodes
+        // max = Math.max(max, right + 1); because after normalization, left is always 0.
         max = Math.max(max , right + 1)
     }
 
