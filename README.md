@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0036-valid-sudoku) |
+| [0046-permutations](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0053-maximum-subarray) |
@@ -419,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0078-subsets) |
