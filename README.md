@@ -370,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0058-length-of-last-word) |
@@ -432,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0051-n-queens) |
@@ -451,6 +453,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0070-climbing-stairs) |
