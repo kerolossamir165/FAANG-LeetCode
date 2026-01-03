@@ -16,9 +16,10 @@ var serialize = function(root) {
     if(!root) return "null"
     let queue = [root]
     let res = []
+    let idx = 0;
 
-    while(queue.length) {
-        let node = queue.shift()
+    while(idx < queue.length) {
+        let node = queue[idx++]
 
         if(node) {
             res.push(node.val)
@@ -43,16 +44,17 @@ var deserialize = function(data) {
     let root = new TreeNode(parseInt(arrData[0]));
     let queue = [root]
     let i = 1
+     let idx = 0;
 
-    while(queue.length) {
-        let node = queue.shift()
+    while(idx < queue.length) {
+        let node = queue[idx++]
 
         if(arrData[i] !== 'null') {
             node.left = new TreeNode(parseInt(arrData[i]));
             queue.push(node.left)
         }
         i++
-        if(arrData[i] !== 'null') {
+        if(i < arrData.length && arrData[i] !== 'null') {
             node.right = new TreeNode(parseInt(arrData[i]));
             queue.push(node.right)
         }
