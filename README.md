@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0392-is-subsequence](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0874-backspace-string-compare) |
 | [0941-sort-array-by-parity](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -399,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0224-basic-calculator](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0392-is-subsequence](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0459-repeated-substring-pattern) |
@@ -480,6 +482,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0392-is-subsequence](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0392-is-subsequence) |
 | [0787-sliding-puzzle](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0787-sliding-puzzle) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
