@@ -474,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0838-design-linked-list](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0838-design-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Backtracking
 |  |
@@ -592,6 +593,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0732-my-calendar-iii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0732-my-calendar-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0838-design-linked-list](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0838-design-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
