@@ -433,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0459-repeated-substring-pattern) |
@@ -570,6 +571,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0224-basic-calculator) |
+| [0412-fizz-buzz](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0412-fizz-buzz) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Trie
@@ -623,6 +625,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0412-fizz-buzz](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0412-fizz-buzz) |
 | [0874-backspace-string-compare](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0874-backspace-string-compare) |
 | [1184-car-pooling](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1184-car-pooling) |
 | [2058-concatenation-of-array](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2058-concatenation-of-array) |
