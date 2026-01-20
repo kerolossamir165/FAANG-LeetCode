@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1184-car-pooling](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1184-car-pooling) |
 | [1185-find-in-mountain-array](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1185-find-in-mountain-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1397-search-suggestions-system](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1397-search-suggestions-system) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1706-min-cost-to-connect-all-points](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0792-binary-search) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1185-find-in-mountain-array](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1185-find-in-mountain-array) |
+| [1397-search-suggestions-system](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1397-search-suggestions-system) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1753-path-with-minimum-effort](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1753-path-with-minimum-effort) |
 ## Binary Tree
@@ -274,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1184-car-pooling](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1184-car-pooling) |
+| [1397-search-suggestions-system](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1397-search-suggestions-system) |
 | [1753-path-with-minimum-effort](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1762-furthest-building-you-can-reach](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -353,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0941-sort-array-by-parity](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1137-height-checker](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1137-height-checker) |
 | [1184-car-pooling](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1184-car-pooling) |
+| [1397-search-suggestions-system](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1397-search-suggestions-system) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2213-find-all-people-with-secret](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2213-find-all-people-with-secret) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
@@ -442,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0874-backspace-string-compare) |
+| [1397-search-suggestions-system](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1397-search-suggestions-system) |
 | [1508-longest-happy-prefix](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1508-longest-happy-prefix) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
@@ -581,6 +586,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0211-design-add-and-search-words-data-structure](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0648-replace-words](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0692-top-k-frequent-words) |
+| [1397-search-suggestions-system](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1397-search-suggestions-system) |
 ## Bucket Sort
 |  |
 | ------- |
