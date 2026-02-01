@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0792-binary-search) |
 | [0881-loud-and-rich](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0881-loud-and-rich) |
 | [0898-transpose-matrix](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0898-transpose-matrix) |
+| [0907-koko-eating-bananas](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0978-valid-mountain-array) |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0784-insert-into-a-binary-search-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1185-find-in-mountain-array](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1185-find-in-mountain-array) |
 | [1397-search-suggestions-system](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1397-search-suggestions-system) |
