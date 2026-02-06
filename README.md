@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0410-split-array-largest-sum](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0494-target-sum) |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0732-my-calendar-iii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0732-my-calendar-iii) |
@@ -282,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0179-largest-number) |
+| [0410-split-array-largest-sum](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0768-partition-labels](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0768-partition-labels) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1762-furthest-building-you-can-reach](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1762-furthest-building-you-can-reach) |
@@ -496,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0732-my-calendar-iii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0732-my-calendar-iii) |
 | [1184-car-pooling](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1184-car-pooling) |
@@ -561,6 +565,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0392-is-subsequence](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0494-target-sum) |
 | [0787-sliding-puzzle](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0787-sliding-puzzle) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
