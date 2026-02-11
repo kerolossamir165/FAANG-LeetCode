@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-loud-and-rich](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0881-loud-and-rich) |
 | [0898-transpose-matrix](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0907-koko-eating-bananas) |
+| [0912-random-pick-with-weight](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0912-random-pick-with-weight) |
 | [0940-fruit-into-baskets](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0978-valid-mountain-array) |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0907-koko-eating-bananas) |
+| [0912-random-pick-with-weight](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0912-random-pick-with-weight) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1185-find-in-mountain-array](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1185-find-in-mountain-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -508,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0732-my-calendar-iii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0732-my-calendar-iii) |
+| [0912-random-pick-with-weight](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0912-random-pick-with-weight) |
 | [1184-car-pooling](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1184-car-pooling) |
 | [1603-running-sum-of-1d-array](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
@@ -631,6 +634,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0224-basic-calculator) |
 | [0412-fizz-buzz](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0412-fizz-buzz) |
+| [0912-random-pick-with-weight](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0912-random-pick-with-weight) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Trie
@@ -748,4 +752,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0732-my-calendar-iii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0732-my-calendar-iii) |
+## Randomized
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0912-random-pick-with-weight) |
 <!---LeetCode Topics End-->
