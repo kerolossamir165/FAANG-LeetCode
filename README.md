@@ -278,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0437-path-sum-iii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0437-path-sum-iii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0744-network-delay-time](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0744-network-delay-time) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0801-is-graph-bipartite](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0820-find-eventual-safe-states) |
@@ -538,6 +539,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0203-remove-linked-list-elements](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0838-design-linked-list](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0838-design-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Backtracking
@@ -741,6 +743,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0146-lru-cache) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Iterator
 |  |
 | ------- |
