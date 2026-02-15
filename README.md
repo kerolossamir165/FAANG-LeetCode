@@ -663,6 +663,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0692-top-k-frequent-words) |
+| [1708-design-parking-system](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1708-design-parking-system) |
 ## Line Sweep
 |  |
 | ------- |
@@ -681,6 +682,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0732-my-calendar-iii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0732-my-calendar-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0838-design-linked-list](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0838-design-linked-list) |
+| [1708-design-parking-system](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1708-design-parking-system) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -705,6 +707,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-backspace-string-compare](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0898-transpose-matrix) |
 | [1184-car-pooling](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1184-car-pooling) |
+| [1708-design-parking-system](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1708-design-parking-system) |
 | [2058-concatenation-of-array](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2058-concatenation-of-array) |
 ## Counting Sort
 |  |
