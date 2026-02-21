@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0784-insert-into-a-binary-search-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1731-even-odd-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1731-even-odd-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -256,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0784-insert-into-a-binary-search-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1731-even-odd-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1731-even-odd-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -356,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0803-cheapest-flights-within-k-stops](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1229-shortest-path-with-alternating-colors) |
+| [1731-even-odd-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1731-even-odd-tree) |
 | [1753-path-with-minimum-effort](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2213-find-all-people-with-secret](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2213-find-all-people-with-secret) |
