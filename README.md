@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0784-insert-into-a-binary-search-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1731-even-odd-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1731-even-odd-tree) |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0784-insert-into-a-binary-search-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1731-even-odd-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1731-even-odd-tree) |
@@ -301,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0803-cheapest-flights-within-k-stops](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0881-loud-and-rich](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0881-loud-and-rich) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1753-path-with-minimum-effort](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1753-path-with-minimum-effort) |
