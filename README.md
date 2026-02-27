@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -286,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -336,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-leaf-similar-trees](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
