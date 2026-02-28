@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1397-search-suggestions-system](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1397-search-suggestions-system) |
+| [1428-jump-game-iii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1428-jump-game-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1603-running-sum-of-1d-array](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -342,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1157-insufficient-nodes-in-root-to-leaf-paths](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1157-insufficient-nodes-in-root-to-leaf-paths) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1254-deepest-leaves-sum) |
+| [1428-jump-game-iii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1428-jump-game-iii) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1753-path-with-minimum-effort](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -416,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1229-shortest-path-with-alternating-colors](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1254-deepest-leaves-sum) |
+| [1428-jump-game-iii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1428-jump-game-iii) |
 | [1731-even-odd-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1731-even-odd-tree) |
 | [1753-path-with-minimum-effort](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
