@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1706-min-cost-to-connect-all-points](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1762-furthest-building-you-can-reach](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1762-furthest-building-you-can-reach) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2058-concatenation-of-array](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2058-concatenation-of-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -425,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1428-jump-game-iii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1428-jump-game-iii) |
 | [1731-even-odd-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1731-even-odd-tree) |
 | [1753-path-with-minimum-effort](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2213-find-all-people-with-secret](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2213-find-all-people-with-secret) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -713,6 +715,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0898-transpose-matrix](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0898-transpose-matrix) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Recursion
