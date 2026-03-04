@@ -348,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [0871-keys-and-rooms](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0871-keys-and-rooms) |
 | [0881-loud-and-rich](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0881-loud-and-rich) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0904-leaf-similar-trees) |
@@ -430,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0803-cheapest-flights-within-k-stops](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0833-bus-routes](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0833-bus-routes) |
+| [0871-keys-and-rooms](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1073-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -902,6 +904,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 |  |
 | ------- |
+| [0871-keys-and-rooms](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0871-keys-and-rooms) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1229-shortest-path-with-alternating-colors) |
 ## Union-Find
 |  |
