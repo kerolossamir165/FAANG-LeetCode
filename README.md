@@ -419,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0404-sum-of-left-leaves](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0433-minimum-genetic-mutation](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -551,6 +552,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0433-minimum-genetic-mutation](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0460-lfu-cache](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0460-lfu-cache) |
@@ -593,6 +595,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0433-minimum-genetic-mutation](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0567-permutation-in-string) |
