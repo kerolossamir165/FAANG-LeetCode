@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0941-sort-array-by-parity](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0978-valid-mountain-array) |
 | [1028-interval-list-intersections](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1028-interval-list-intersections) |
+| [1032-satisfiability-of-equality-equations](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1039-find-the-town-judge](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1039-find-the-town-judge) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -614,6 +615,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0800-letter-case-permutation](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0800-letter-case-permutation) |
 | [0869-similar-string-groups](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0869-similar-string-groups) |
 | [0874-backspace-string-compare](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0874-backspace-string-compare) |
+| [1032-satisfiability-of-equality-equations](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1397-search-suggestions-system](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1397-search-suggestions-system) |
 | [1508-longest-happy-prefix](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1508-longest-happy-prefix) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -919,11 +921,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0871-keys-and-rooms](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0871-keys-and-rooms) |
+| [1032-satisfiability-of-equality-equations](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1325-path-with-maximum-probability](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1325-path-with-maximum-probability) |
 ## Union-Find
 |  |
 | ------- |
 | [0869-similar-string-groups](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0869-similar-string-groups) |
+| [1032-satisfiability-of-equality-equations](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1073-number-of-enclaves](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->
