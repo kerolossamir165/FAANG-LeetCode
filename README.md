@@ -928,6 +928,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1032-satisfiability-of-equality-equations](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1325-path-with-maximum-probability](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 ## Union-Find
 |  |
 | ------- |
