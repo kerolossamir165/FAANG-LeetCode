@@ -405,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1753-path-with-minimum-effort](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1762-furthest-building-you-can-reach](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -731,6 +732,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0803-cheapest-flights-within-k-stops](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Interactive
 |  |
 | ------- |
@@ -825,6 +827,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0838-design-linked-list](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0838-design-linked-list) |
 | [1582-design-browser-history](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1582-design-browser-history) |
 | [1708-design-parking-system](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1708-design-parking-system) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -935,6 +938,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1229-shortest-path-with-alternating-colors](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1325-path-with-maximum-probability](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Union-Find
 |  |
 | ------- |
