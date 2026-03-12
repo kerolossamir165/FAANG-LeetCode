@@ -534,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-backspace-string-compare](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0874-backspace-string-compare) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1582-design-browser-history](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1582-design-browser-history) |
+| [2389-design-a-text-editor](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2389-design-a-text-editor) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -624,6 +625,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1397-search-suggestions-system](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1397-search-suggestions-system) |
 | [1508-longest-happy-prefix](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1508-longest-happy-prefix) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2389-design-a-text-editor](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2389-design-a-text-editor) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 ## Sliding Window
 |  |
@@ -677,6 +679,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0838-design-linked-list](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0838-design-linked-list) |
 | [1582-design-browser-history](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1582-design-browser-history) |
+| [2389-design-a-text-editor](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2389-design-a-text-editor) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Backtracking
 |  |
@@ -827,6 +830,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0838-design-linked-list](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0838-design-linked-list) |
 | [1582-design-browser-history](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1582-design-browser-history) |
 | [1708-design-parking-system](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1708-design-parking-system) |
+| [2389-design-a-text-editor](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2389-design-a-text-editor) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Divide and Conquer
 |  |
@@ -855,6 +859,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1184-car-pooling](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1184-car-pooling) |
 | [1708-design-parking-system](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1708-design-parking-system) |
 | [2058-concatenation-of-array](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2058-concatenation-of-array) |
+| [2389-design-a-text-editor](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2389-design-a-text-editor) |
 ## Counting Sort
 |  |
 | ------- |
@@ -898,6 +903,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0460-lfu-cache](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0460-lfu-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1582-design-browser-history](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1582-design-browser-history) |
+| [2389-design-a-text-editor](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2389-design-a-text-editor) |
 ## Iterator
 |  |
 | ------- |
