@@ -585,6 +585,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [4118-design-ride-sharing-system](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/4118-design-ride-sharing-system) |
 ## String
 |  |
 | ------- |
@@ -836,6 +837,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1708-design-parking-system](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1708-design-parking-system) |
 | [2389-design-a-text-editor](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2389-design-a-text-editor) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
+| [4118-design-ride-sharing-system](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/4118-design-ride-sharing-system) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -874,6 +876,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1582-design-browser-history](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1582-design-browser-history) |
+| [4118-design-ride-sharing-system](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/4118-design-ride-sharing-system) |
 ## Memoization
 |  |
 | ------- |
@@ -935,6 +938,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0239-sliding-window-maximum) |
+| [4118-design-ride-sharing-system](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/4118-design-ride-sharing-system) |
 ## Monotonic Queue
 |  |
 | ------- |
