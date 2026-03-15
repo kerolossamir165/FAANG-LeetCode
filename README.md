@@ -952,6 +952,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1229-shortest-path-with-alternating-colors](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1325-path-with-maximum-probability](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
+| [1738-maximal-network-rank](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1738-maximal-network-rank) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Union-Find
 |  |
