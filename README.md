@@ -953,6 +953,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-path-with-maximum-probability](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1738-maximal-network-rank](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1738-maximal-network-rank) |
+| [2198-process-restricted-friend-requests](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2198-process-restricted-friend-requests) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Union-Find
 |  |
@@ -960,4 +961,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0869-similar-string-groups](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0869-similar-string-groups) |
 | [1032-satisfiability-of-equality-equations](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1073-number-of-enclaves](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1073-number-of-enclaves) |
+| [2198-process-restricted-friend-requests](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2198-process-restricted-friend-requests) |
 <!---LeetCode Topics End-->
