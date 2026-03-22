@@ -534,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0503-next-greater-element-ii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -617,6 +618,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0224-basic-calculator](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
@@ -804,6 +806,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0412-fizz-buzz) |
 | [0912-random-pick-with-weight](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0912-random-pick-with-weight) |
