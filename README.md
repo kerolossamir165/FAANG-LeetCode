@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0347-top-k-frequent-elements](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -403,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0355-design-twitter) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0407-trapping-rain-water-ii) |
@@ -519,6 +521,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0217-contains-duplicate) |
 | [0295-find-median-from-data-stream](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -586,6 +589,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0355-design-twitter](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0355-design-twitter) |
@@ -848,10 +852,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0837-most-common-word](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0837-most-common-word) |
 | [1708-design-parking-system](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1708-design-parking-system) |
@@ -892,6 +898,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0654-maximum-binary-tree) |
 | [1014-k-closest-points-to-origin](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Merge Sort
@@ -1016,5 +1023,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Quickselect
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
