@@ -785,6 +785,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0494-target-sum) |
 | [0787-sliding-puzzle](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0787-sliding-puzzle) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Shortest Path
 |  |
@@ -792,6 +793,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-network-delay-time](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Interactive
@@ -1019,6 +1021,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1032-satisfiability-of-equality-equations](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1325-path-with-maximum-probability](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1738-maximal-network-rank](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1738-maximal-network-rank) |
 | [2198-process-restricted-friend-requests](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2198-process-restricted-friend-requests) |
