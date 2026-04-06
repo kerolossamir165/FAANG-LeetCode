@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0745-find-smallest-letter-greater-than-target](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0787-sliding-puzzle](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0792-binary-search) |
+| [0816-design-hashset](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0816-design-hashset) |
 | [0833-bus-routes](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0833-bus-routes) |
 | [0837-most-common-word](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0837-most-common-word) |
 | [0869-similar-string-groups](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0869-similar-string-groups) |
@@ -620,6 +621,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0677-map-sum-pairs](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0768-partition-labels) |
+| [0816-design-hashset](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0816-design-hashset) |
 | [0833-bus-routes](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0833-bus-routes) |
 | [0837-most-common-word](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0837-most-common-word) |
 | [0869-similar-string-groups](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0869-similar-string-groups) |
@@ -734,6 +736,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0355-design-twitter](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0460-lfu-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0816-design-hashset](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0816-design-hashset) |
 | [0838-design-linked-list](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0838-design-linked-list) |
 | [1582-design-browser-history](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1582-design-browser-history) |
 | [2389-design-a-text-editor](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/2389-design-a-text-editor) |
@@ -903,6 +906,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0677-map-sum-pairs](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0677-map-sum-pairs) |
 | [0732-my-calendar-iii](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0732-my-calendar-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0816-design-hashset](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0816-design-hashset) |
 | [0838-design-linked-list](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0838-design-linked-list) |
 | [1582-design-browser-history](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1582-design-browser-history) |
 | [1708-design-parking-system](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1708-design-parking-system) |
@@ -975,6 +979,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0816-design-hashset](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0816-design-hashset) |
 | [1508-longest-happy-prefix](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1508-longest-happy-prefix) |
 ## Doubly-Linked List
 |  |
