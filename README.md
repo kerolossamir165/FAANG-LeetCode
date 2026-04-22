@@ -417,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0768-partition-labels](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0768-partition-labels) |
+| [0778-reorganize-string](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0778-reorganize-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1762-furthest-building-you-can-reach](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 ## Heap (Priority Queue)
@@ -433,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0744-network-delay-time](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0744-network-delay-time) |
+| [0778-reorganize-string](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -553,6 +555,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0658-find-k-closest-elements](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0778-reorganize-string](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0778-reorganize-string) |
 | [0941-sort-array-by-parity](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0974-reorder-data-in-log-files](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0974-reorder-data-in-log-files) |
 | [1014-k-closest-points-to-origin](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -638,6 +641,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0677-map-sum-pairs](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0768-partition-labels) |
+| [0778-reorganize-string](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0778-reorganize-string) |
 | [0816-design-hashset](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0817-design-hashmap) |
 | [0833-bus-routes](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0833-bus-routes) |
@@ -692,6 +696,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0677-map-sum-pairs](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0768-partition-labels) |
+| [0778-reorganize-string](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0778-reorganize-string) |
 | [0800-letter-case-permutation](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0800-letter-case-permutation) |
 | [0837-most-common-word](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0837-most-common-word) |
 | [0869-similar-string-groups](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0869-similar-string-groups) |
@@ -915,6 +920,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0778-reorganize-string](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0778-reorganize-string) |
 | [0837-most-common-word](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0837-most-common-word) |
 | [1708-design-parking-system](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/1708-design-parking-system) |
 ## Line Sweep
