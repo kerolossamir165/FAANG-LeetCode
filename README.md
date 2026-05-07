@@ -766,6 +766,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0203-remove-linked-list-elements](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0460-lfu-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/kerolossamir165/FAANG-LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
